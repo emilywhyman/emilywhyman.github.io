@@ -1,6 +1,7 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Emily Whyman
+title: Emily Whyman
 
 description:
 
@@ -21,7 +22,7 @@ author:
   info:
 
 url: https://emilywhyman.github.io/
-baseurl: /
+# baseurl: /
 
 # language attribute in <html> element.
 lang: en
