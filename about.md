@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
-Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and for fun by Stijn. Get the latest version at the [Github repository](https://github.com/stijnvc/holo-alfa).
+Collective edibles...
+
+[Instagram](https://www.instagram.com/collective_edibles/)
+
+
 
 ---
-
-Holo Alfa is open source, [MIT license](http://opensource.org/licenses/MIT).
