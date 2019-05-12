@@ -1,6 +1,6 @@
 ---
 title: project introduction
-cover-image: img/covers/tomato.jpg
+cover-image: tomato.jpg
 ---
 
 ## food ##
