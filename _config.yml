@@ -1,21 +1,21 @@
 
 # The name of your website.
-name: Emily Whyman
-title: Emily Whyman
+name: Collective Edibles
+title: collective edibles
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: Collective Edibles is a site dedicated to the discussion of food, from production to consumption.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Collective Edibles is a site dedicated to the discussion of food, from production to consumption. It's a site to share recipes, ideologies and tools for change.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Emily Whyman # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: emily.whyman@iaac.net # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
