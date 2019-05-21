@@ -1,7 +1,6 @@
 ---
 title: recipes
 layout: page
-cover-image: leka.jpg
 ---
 
 <br>

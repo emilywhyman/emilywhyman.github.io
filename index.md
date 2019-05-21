@@ -1,8 +1,6 @@
 ---
 layout: default
 home: true
-cover-image: strawberries-radish.jpg
-
 ---
 
 

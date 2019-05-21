@@ -19,12 +19,16 @@
 /* Content */
 
 body {
-  font-family: "Crimson Text", Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: 'Lato', sans-serif;
+  /* font-family: "Crimson Text", Georgia, Cambria, "Times New Roman", Times, serif; */
+  /* font-family: 'B612 Mono', monospace; */
+
   font-size: 22px;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
-  color: rgba({{ site.text-color }}, .8);
-  background-color: rgb({{ site.background-color }});
+  color: #011627;
+  /* color: rgba({{ site.text-color }}, .8); */
+  background-color: #FF9F1C;
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -250,7 +254,7 @@ hr {
 header {
   padding-top: 20px;
   position: relative;
-  color: rgba({{ site.text-color }},.5);
+  /* color: rgba({{ site.text-color }},.5); */
 }
 header img {
   height: 32px;
@@ -378,7 +382,7 @@ nav a.current {
 }
 .subtitle {
   margin: 30px 0;
-  color: rgba({{ site.text-color }},.5);
+  /* color: rgba({{ site.text-color }},.5); */
 }
 .subtitle a {
   background-image: -webkit-linear-gradient(rgba({{ site.text-color }},.5),rgba({{ site.text-color }},.5));
