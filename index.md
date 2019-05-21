@@ -1,7 +1,7 @@
 ---
 layout: default
 home: true
-cover-image: dinner-flyerp1.jpg
+cover-image: strawberries-radish.jpg
 
 ---
 
