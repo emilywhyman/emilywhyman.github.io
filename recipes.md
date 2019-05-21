@@ -7,7 +7,7 @@ cover-image: leka.jpg
 
 <br>
 
-<h5>chocolate-chip cookies</h5>
+### chocolate-chip cookies
 
   <p><li>1/2 cup (112g) Vegan Butter</li>
 <li>1/2 cup (100g) White Sugar</li>
@@ -21,7 +21,7 @@ cover-image: leka.jpg
 <li>3.5 oz (100g) Vegan Dark Chocolate + more for topping (chopped into small chunks)</li>
 <li>1/2 cup Mealworm Flour.</li></p>
 
-<h6>how-to</h6>
+###### how-to
 
 <li>Preheat the oven to 350°F (180°C).</li>
 <li>Add the vegan butter and brown and white sugar to an electric mixing bowl and cream together. Add the vanilla and mix in.</li>
@@ -34,5 +34,8 @@ cover-image: leka.jpg
 <li>Roll into small balls and space evenly on a parchment lined baking tray.</li>
 <li>Bake for 10 minutes. The edges will be firm but the cookies will still be soft in the middle. This is fine, they will firm up as they cool.</li>
 <li>Press in a few more chocolate chunks to the top of the cookies as they come out of the oven if you like (optional).</li>
+
+![]({{site.baseurl}}../img/cookies-in-jar.jpg)
+![]({{site.baseurl}}../img/cookies-on-plate.jpg)
 
 <br>
