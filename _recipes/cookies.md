@@ -1,10 +1,7 @@
 ---
-title: recipes
+title: cookies
 layout: page
 ---
-
-
-<br>
 
 ### chocolate-chip cookies
 
@@ -36,5 +33,3 @@ layout: page
 
 ![]({{site.baseurl}}../img/cookies-in-jar.jpg)
 ![]({{site.baseurl}}../img/cookies-on-plate.jpg)
-
-<br>
