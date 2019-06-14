@@ -3,9 +3,13 @@ title: cookies
 layout: page
 ---
 
-### chocolate-chip cookies
+---
 
-  <p><li>1/2 cup (112g) Vegan Butter</li>
+![]({{site.baseurl}}/img/concept-posters.jpg)
+
+
+###### ingredients
+  <li>1/2 cup (112g) Vegan Butter</li>
 <li>1/2 cup (100g) White Sugar</li>
 <li>1/2 cup (100g) Brown Sugar</li>
 <li>1 tsp Vanilla Extract</li>
@@ -16,6 +20,7 @@ layout: page
 <li>1 Tbsp Soy Milk (or other non-dairy milk)</li>
 <li>3.5 oz (100g) Vegan Dark Chocolate + more for topping (chopped into small chunks)</li>
 <li>1/2 cup Mealworm Flour.</li></p>
+
 
 ###### how-to
 
@@ -30,6 +35,3 @@ layout: page
 <li>Roll into small balls and space evenly on a parchment lined baking tray.</li>
 <li>Bake for 10 minutes. The edges will be firm but the cookies will still be soft in the middle. This is fine, they will firm up as they cool.</li>
 <li>Press in a few more chocolate chunks to the top of the cookies as they come out of the oven if you like (optional).</li>
-
-![]({{site.baseurl}}../img/cookies-in-jar.jpg)
-![]({{site.baseurl}}../img/cookies-on-plate.jpg)
