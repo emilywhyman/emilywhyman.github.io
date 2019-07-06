@@ -36,12 +36,12 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 # If you want social links to open in a new tab, set this as true
-social-icons-open-newtab: true
+social-icons-open-newtab: false
 
 footer-text: this is the bottom of the page
 
 # Preferably 64px in height. Leave empty = disable.
-logo-image: # /img/logo.png
+logo-image: /img/logo.svg
 
 # Toolbar color for Chrome on Android.
 theme-color-attr: "#00f0ff"
