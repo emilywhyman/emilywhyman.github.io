@@ -9,7 +9,8 @@ description:
   meta: Collective Edibles is a site dedicated to the discussion of food, from production to consumption.
 
   # Description of your site. This will show up on the front page.
-  subtitle: hi there this website is undergoing maintenance, please check back later for more juicy knowledge and recipes <img src="https://www.allsmileys.com/files/kaos/149.gif" style="border:0px;vertical-align:middle">
+  subtitle: <img src="https://www.allsmileys.com/files/kaos/149.gif" style="border:0px;vertical-align:middle">
+   hi there this website is undergoing maintenance, please check back later for more juicy knowledge and recipes
   name: Emily Whyman # Change this!
 
   # Necessary for contact page
