@@ -8,4 +8,4 @@ cover-image:
 ![]({{site.baseurl}}/img/strawberries-radish.jpg)
 
 Want to know how to build your own aeroponics system? Download the toolkit here ----->
-[Aeroponics toolkit](AeroponicsToolkit.pdf.zip)
+[Aeroponics toolkit](_docs/_AeroponicsToolkit.pdf.zip)
