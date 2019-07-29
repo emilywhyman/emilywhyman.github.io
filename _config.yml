@@ -149,3 +149,4 @@ defaults:
       layout: "post"
       excerpt_separator: "<!--more-->"
       gems: ['jekyll-github-metadata']
+      gems: ['jekyll-relative-links']

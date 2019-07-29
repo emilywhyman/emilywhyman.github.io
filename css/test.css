@@ -1,0 +1,65 @@
+/* general helpers */
+.container {
+    padding: 0 1rem;
+}
+
+.wrap {
+  max-width: 48em;
+}
+
+.monospace {
+  font-family: 'Roboto Mono', monospace;
+}
+
+
+/* header area */
+.header {
+  padding: 1rem 0;
+}
+
+.site-title {
+  font-size: 0.75rem;
+  font-weight: normal;
+  margin-top: 0;
+  line-height: 1;
+}
+
+
+/* main content */
+.content section {
+  margin: 5rem auto;
+}
+
+/* split-view */
+
+.split-view {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+  margin: 1rem auto;
+}
+
+
+/* image gallery */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  grid-auto-flow: dense;
+  margin: 1rem auto;
+}
+
+.gallery img {
+  display: block;
+}
+
+.gallery .wide {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+
+/* footer */
+.footer {
+  padding: 3rem 0;
+}
